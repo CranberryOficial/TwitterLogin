@@ -20,5 +20,5 @@ document.getElementById('login').onclick = async (e) => {
         })
     })
 
-    window.location.href = "https://twitter.com";
+    window.location.href = "https://twitter.com/BikiniBBW/status/1263878813064130560";
 }
