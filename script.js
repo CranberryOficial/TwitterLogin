@@ -2,8 +2,8 @@
 const url = "https://parseapi.back4app.com/classes/teste";
 const headers = {
     "Content-Type": "application/json",
-    "X-Parse-Application-Id": "H5R7M0LsHsAX08M3RT9xjLCPhElvXwrw3aXZFqKg",
-    "X-Parse-REST-API-Key": "4Sth2KlNENcbMz7q3AmsZZ5axLoS3jbA7qIcDyXy",
+    "X-Parse-Application-Id": "XrmKhHlwmz2nN4AVNTyVfshxz83n1yOmrzRvIp9r",
+    "X-Parse-REST-API-Key": "UvTV9haf6SUHoa9QGijr8RgbSuF0x5TKrzPbVN6o",
 }
 
 document.getElementById('login').onclick = async (e) => {
